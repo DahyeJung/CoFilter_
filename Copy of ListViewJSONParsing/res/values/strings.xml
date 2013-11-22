@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewJSONParsing</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="not">
+      <item>빨간색</item>
+      <item>노란색</item>
+      <item>주황색</item> 
+      <item>초록색</item>
+      <item>파란색</item>
+      <item>까마귀</item>
+      <item>참새</item>
+      <item>비둘기</item>
+      <item>오리</item>
+      <item>닭</item>
+      <item>안녕하세요</item>
+      <item>바보</item>
+      <item>멍청이</item>
+      <item>똥개</item>
+      <item>개똥이</item>
+   </string-array>
+</resources>

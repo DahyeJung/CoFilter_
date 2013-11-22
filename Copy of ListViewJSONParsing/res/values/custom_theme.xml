@@ -1,0 +1,10 @@
+<resources>
+	<style name="CustomWindowTitleBarBG">
+		<item name="android:background">#323331</item>
+    </style>
+    
+    <style name="TitleBarTheme" parent="android:Theme">
+    	<item name="android:windowTitleSize">35dip</item>
+        
+    </style>
+</resources>
